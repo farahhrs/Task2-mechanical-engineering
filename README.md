@@ -15,7 +15,7 @@ This repository contains two subtastks:
 - Click [here](https://github.com/farahhrs/Task2-mechanical-enginnering/blob/main/Suspension%20system/Assemblly.stl) to see the assembled parts in stl file.
 
 ## Wheel assembly 
-- In this task I relied on the given wheel measurements to create a 3D design, also I made some modifications on leg7.stl file to make it suitable t add the wheel. 
+- In this task I relied on the given wheel measurements to create a 3D design for the wheel, also I made some modifications on leg7.stl file to make it suitable to add the wheel. 
 - Click [here](https://github.com/farahhrs/Task2-mechanical-enginnering/blob/main/Wheel%20assembly/Assembly.stl) to see the wheel added to the leg.
 - Clcik [here](https://github.com/farahhrs/Task2-mechanical-enginnering/blob/main/Wheel%20assembly/leg7.stl) to see the leg7 after the modifications.
 - Click [here](https://github.com/farahhrs/Task2-mechanical-enginnering/blob/main/Wheel%20assembly/Wheel.stl) to see the 3D design of the wheel.
