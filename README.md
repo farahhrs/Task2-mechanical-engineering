@@ -2,7 +2,7 @@
 
 This repository contains two subtastks:
 
-- [Suspension system](https://github.com/farahhrs/Task2-mechanical-enginnering#suspension-system)
+- [Suspension system](https://github.com/farahhrs/Task2-mechanical-engineering#suspension-system)
 
 - [Wheel assembly](https://github.com/farahhrs/Task2-mechanical-enginnering#wheel-assembly)
 
